@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    html{
+        height: 100%;
+    }
+    body{
+     height: 100%;
+     background:#e2e6f0;
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+    }
+    .error-container{
+        height: 100%;
+        text-align: center;
+        padding-top: 15%;
+        background:#e2e6f0;
+        box-sizing: border-box;
+    }
+    .error-image{
+        display: inline-block;
+        width: 215px;
+        height: 180px;
+        background: url(./networkerr.svg);
+        margin-bottom: 40px;
+    }
+    .error-text{
+      margin-bottom: 40px;
+      font-size: 24px;
+      color: #869abb;
+    }
+    #returnBtn{
+        width: 74px;
+        height: 34px;
+        font-size: 14px;
+        color: #fff;
+        cursor: pointer;
+        outline: none;
+        background: #21539b;
+    }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+       <div class="error-image"></div>
+       <p class="error-text">网络异常，页面加载失败</p>
+       <button id="returnBtn">刷新</button>
+    </div>
+  <script>
+      document.getElementById('returnBtn').addEventListener('click',function(){
+          history.go(-1);
+      })
+  </script>
+</body>
+</html>

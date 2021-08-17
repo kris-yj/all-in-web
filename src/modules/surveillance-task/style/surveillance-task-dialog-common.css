@@ -1,0 +1,21 @@
+.ploy-time-item-container .el-date-editor.el-input, .el-date-editor.el-input__inner{
+    width: 160px;
+
+  }
+.select-album-item-container  .el-input{
+    width: 100%;
+  }
+  .select-album-item-container .meg-select .el-select .el-input{
+    width: 100%;
+  }
+ 
+  .taskDialog-content-condition-container .el-tag {
+    max-width: 100%;
+    position: relative;
+    padding:0 30px 0 10px;
+  }
+  .taskDialog-content-condition-container .el-tag .el-tag__close{
+    position: absolute;
+    right: 10px;
+    top: 8px;
+  }

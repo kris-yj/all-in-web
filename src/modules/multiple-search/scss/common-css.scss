@@ -1,0 +1,26 @@
+@mixin wrap-style {
+  height: 100%;
+  .meg-select{
+    width: 100%;
+  }
+  .condition__left{
+    height: 320px;
+    width: 320px;
+    overflow: auto;
+    border-bottom: 1px solid rgba(239,239,239,1);
+    overflow-x: hidden;
+  }
+  .condition__right{
+    width: 330px;
+    display: none;
+    border-bottom: 1px solid rgba(239,239,239,1);
+  }
+  &.is-text-search{
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    .condition__right{
+      display: block;
+    }
+  }
+}

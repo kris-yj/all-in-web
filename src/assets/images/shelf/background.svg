@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 8" style="enable-background:new 0 0 60 8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#矩形_2_);}
+	.st1{opacity:0.85;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<linearGradient id="矩形_2_" gradientUnits="userSpaceOnUse" x1="-913.0167" y1="468.5714" x2="-913.0167" y2="467.5714" gradientTransform="matrix(60 0 0 -7 54811 3280)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.4254"/>
+</linearGradient>
+<polygon id="矩形" class="st0" points="8.4,0 51.6,0 60,7 0,7 "/>
+<rect id="矩形_1_" y="7" class="st1" width="60" height="1"/>
+</svg>

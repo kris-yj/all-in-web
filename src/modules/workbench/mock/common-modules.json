@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "id": "1111777",
+        "alias": "track",
+        "name": "轨迹回放",
+        "icon": "album-region_menu"
+      },
+      {
+        "id": "111188",
+        "alias": "hiding-place",
+        "name": "落脚点分析",
+        "icon": "archives"
+      }
+    ]
+  }
+}

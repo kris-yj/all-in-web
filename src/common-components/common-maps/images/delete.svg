@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>icon-删除（输入框）复制</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-861.000000, -203.000000)" fill-rule="nonzero">
+            <g id="icon-删除（输入框）复制" transform="translate(861.000000, 203.000000)">
+                <path d="M19.9545454,4.04464286 C15.5610287,-0.348425605 8.43813132,-0.34818333 4.04491342,4.045184 C-0.348304475,8.43855133 -0.348304475,15.5614487 4.04491342,19.954816 C8.43813132,24.3481833 15.5610287,24.3484256 19.9545454,19.9553571 C22.064578,17.8455399 23.25,14.9838844 23.25,12 C23.25,9.01611559 22.064578,6.1544601 19.9545454,4.04464286 Z" id="Shape" stroke="#FFFFFF" stroke-width="1.5" fill="#BF2B2B"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="17.6666667 15.6053985 14.0612682 12 17.6666667 8.39460154 15.6053985 6.33333333 12 9.93873179 8.39460154 6.33333333 6.33333333 8.39460154 9.93873179 12 6.33333333 15.6053985 8.39460154 17.6666667 12 14.0612682 15.6053985 17.6666667"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

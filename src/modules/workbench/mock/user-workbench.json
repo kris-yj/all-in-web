@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "id": "1111777",
+        "technicalType": 0,
+        "technicalAlias": "track",
+        "technicalName": "轨迹回放",
+        "technicalNote": "",
+        "technicalProperties": "",
+        "technicalIcon": "album-region_menu"
+      },
+      {
+        "id": "111188",
+        "technicalType": 0,
+        "technicalAlias": "hiding-place",
+        "technicalName": "落脚点分析",
+        "technicalNote": "",
+        "technicalProperties": {},
+        "technicalIcon": "album-region_menu"
+      }
+    ]
+  }
+}

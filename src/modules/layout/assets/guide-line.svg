@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="57px" viewBox="0 0 67 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="暂存架" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="系统引导" transform="translate(-1207.000000, -21.000000)">
+            <g id="编组" transform="translate(1207.302734, 21.894287)">
+                <path d="M5,47.9388017 C7.19591557,42.3747554 11.3185968,37.4429871 17.3680436,33.1434967 C26.4422138,26.6942612 38.9520505,29.3498288 31.7472958,36.3992344 C24.5425411,43.4486401 23.9249399,25.9088534 33,17.5761211 C39.0500401,12.0209661 48.3833734,9.49629989 61,10.0021223" id="路径-2" stroke="#FFFFFF" transform="translate(33.000000, 28.938802) rotate(-16.000000) translate(-33.000000, -28.938802) "></path>
+                <polygon id="路径-3" fill="#FFFFFF" points="51.5092773 3.55271368e-15 60.6064453 1.77685547 52.7841797 7.10571289 54 3.07824707"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

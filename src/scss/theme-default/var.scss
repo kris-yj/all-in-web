@@ -1,0 +1,9 @@
+/* var.scss 只能存放scss变量 */
+
+/*switch统一样式修改*/
+$--switch-on-color: #99bc6f;
+// table左边距
+$--table-left-padding: 18px;
+$--app-layout-header-height: 56px;
+
+@import "~megvii-ui/lib/style/common/var.scss";

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1050px" height="311px" viewBox="0 0 1050 311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>蒙版/down</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1050" height="311"></rect>
+        <rect id="path-3" x="0" y="0" width="1867" height="1080"></rect>
+        <filter x="-5.3%" y="-9.2%" width="110.6%" height="118.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="33" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#25319B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00077E" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#25319B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00077E" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#25319B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00077E" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard1920" transform="translate(-435.000000, -769.000000)">
+            <g id="蒙版/down" transform="translate(435.000000, 769.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#FFFFFF" opacity="0" transform="translate(525.000000, 155.500000) scale(-1, 1) translate(-525.000000, -155.500000) " xlink:href="#path-1"></use>
+                <g id="1920蒙版" mask="url(#mask-2)">
+                    <g transform="translate(-423.000000, -769.000000)">
+                        <g>
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="矩形" fill="#D8D8D8" opacity="0" xlink:href="#path-3"></use>
+                            <path d="M1491.17167,1080 L371.944062,1080 L371.943071,1078.502 L1.45669661,1078.50208 L1.45669661,187.50208 L372.428768,187.50208 L372.428071,835.339 L1491.17167,835.339806 L1491.17107,187.164 L0.486071336,187.164545 L0.486071336,1.16454495 L1491.17107,1.164 L1491.17177,-2.26485497e-14 L1864.0861,-2.26485497e-14 L1864.08607,1.164 L1865.05723,1.16454495 L1865.05723,187.164545 L1864.08607,187.164 L1864.0861,1078.50208 L1491.17177,1078.50208 L1491.17167,1080 Z" id="形状结合" fill="#002A9C" opacity="0.94" filter="url(#filter-5)" mask="url(#mask-4)"></path>
+                            <polygon id="矩形" fill="url(#linearGradient-6)" opacity="0.4" filter="url(#filter-7)" mask="url(#mask-4)" transform="translate(1845.125134, 539.000000) scale(-1, -1) rotate(-270.000000) translate(-1845.125134, -539.000000) " points="1306.62098 517.607292 2383.62929 517.607292 2383.62929 560.392708 1306.62098 560.392708"></polygon>
+                            <polygon id="矩形" fill="url(#linearGradient-6)" opacity="0.4" filter="url(#filter-8)" mask="url(#mask-4)" transform="translate(21.392708, 539.334070) scale(1, -1) rotate(-270.000000) translate(-21.392708, -539.334070) " points="-517.111447 517.941362 559.896863 517.941362 559.896863 560.726778 -517.111447 560.726778"></polygon>
+                            <rect id="矩形" fill="url(#linearGradient-9)" opacity="0.4" filter="url(#filter-10)" mask="url(#mask-4)" transform="translate(933.500000, 1058.000000) scale(1, -1) rotate(-180.000000) translate(-933.500000, -1058.000000) " x="0" y="1036" width="1867" height="44"></rect>
+                            <rect id="矩形" fill="url(#linearGradient-11)" opacity="0.4" filter="url(#filter-12)" mask="url(#mask-4)" transform="translate(933.500000, 48.696951) scale(1, -1) translate(-933.500000, -48.696951) " x="0" y="0.829914887" width="1867" height="95.734072"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

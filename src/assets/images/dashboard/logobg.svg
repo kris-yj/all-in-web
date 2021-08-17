@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="44px" viewBox="0 0 200 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logobg</title>
+    <defs>
+        <linearGradient x1="239.542413%" y1="50%" x2="-1.11022302e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#19B6FF" offset="0%"></stop>
+            <stop stop-color="#18D5FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard" transform="translate(-20.000000, -26.000000)">
+            <g id="编组" transform="translate(20.000000, 26.000000)">
+                <g id="logobg">
+                    <rect id="矩形" fill="#18D5FF" x="194" y="0" width="6" height="2"></rect>
+                    <rect id="矩形" fill="#18D5FF" x="0" y="0" width="6" height="2"></rect>
+                    <rect id="矩形" fill="#18D5FF" x="194" y="42" width="6" height="2"></rect>
+                    <rect id="矩形" fill="#18D5FF" x="0" y="42" width="6" height="2"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="171" y="14" width="24" height="16"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" transform="translate(17.000000, 22.000000) scale(-1, 1) translate(-17.000000, -22.000000) " x="5" y="14" width="24" height="16"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

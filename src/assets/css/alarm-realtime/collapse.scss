@@ -1,0 +1,24 @@
+.alarm-reservation-container-box {
+  .el-collapse {
+    border-bottom: none;
+    // div:last-of-type .el-collapse-item__header {
+    //   margin: 0;
+    // }
+    .el-collapse-item__header {
+      height: 34px;
+      line-height: 34px;
+      font-size: 14px;
+      color: #435068;
+      padding-left: 12px;
+      margin-bottom: 4px;
+      i {
+        display: none;
+      }
+    }
+    .el-collapse-item__wrap {
+      border-bottom: none;
+      margin-bottom: 4px;
+    }
+  }
+
+}

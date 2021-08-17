@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="485px" height="260px" viewBox="0 0 485 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>暂无视频_videoBG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#252F5B" offset="0%"></stop>
+            <stop stop-color="#1B2141" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-167.103774%" y1="-17.438797%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#C5DFFF" offset="0%"></stop>
+            <stop stop-color="#5383D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.2882273%" y1="42.8068856%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#C5DFFF" offset="0%"></stop>
+            <stop stop-color="#5383D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="-26.981162%" x2="358.006891%" y2="255.228668%" id="linearGradient-4">
+            <stop stop-color="#C5DFFF" offset="0%"></stop>
+            <stop stop-color="#5383D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="63.9865331%" y2="187.119495%" id="linearGradient-5">
+            <stop stop-color="#C5DFFF" offset="0%"></stop>
+            <stop stop-color="#5383D0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="暂无视频_videoBG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7c3efb4885" fill="url(#linearGradient-1)">
+            <rect id="Mask" x="0" y="0" width="485" height="260"></rect>
+        </g>
+        <text id="暂无视频-copy" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="12" font-weight="400" line-spacing="12" fill="#505B86">
+            <tspan x="220" y="185">暂无视频</tspan>
+        </text>
+        <g id="暂无视屏" opacity="0.386216518" transform="translate(200.000000, 75.000000)">
+            <polygon id="Fill-5" fill="url(#linearGradient-2)" opacity="0.3" points="68.6948072 66.125109 59.0511798 48.7536213 56.415805 57.8980277 64.4582079 72.6609098 84.6208733 72.6609098 84.6208733 66.125109"></polygon>
+            <g id="Group" opacity="0.3" stroke-width="1" transform="translate(42.500000, 42.000000) rotate(-30.000000) translate(-42.500000, -42.000000) translate(2.000000, 27.000000)">
+                <path d="M9.82592247,24 L0,24 L0,5 L6.23127196,5 L6.23127196,13.5210197 L6.23659284,13.5259219 C6.23305228,13.6627107 6.23127196,13.7999012 6.23127196,13.9374747 C6.23127196,17.7057057 7.56695104,21.1865245 9.82592247,24 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                <path d="M26.7168664,29.0420395 C17.7721473,29.0420395 10.5210197,22.0930423 10.5210197,13.5210197 L10.5210197,-3.55271368e-15 L80.6050987,-3.55271368e-15 L80.6050987,29.0420395 L26.7168664,29.0420395 Z M67.1085598,16.1078564 L67.1085598,23.8683662 L75.2064832,23.8683662 L75.2064832,16.1078564 L67.1085598,16.1078564 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-5)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

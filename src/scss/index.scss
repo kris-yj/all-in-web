@@ -1,0 +1,28 @@
+/* 改变 megvii-ui assets 路径变量，必需 */
+$--pro-assets-path: '~megvii-ui-pro/lib/style/assets';
+@import "~megvii-ui-pro/lib/style.scss";
+
+@import "./theme-default/var.scss";
+
+body {
+  background: radial-gradient(circle at 100% 0, rgba(0, 255, 208, 0.7) 0, rgba(0, 255, 208, 0.4) 10%, rgba(255, 0, 0, 0) 35%), radial-gradient(circle at 142px 28px, #1c1843 0, #435080 26%);
+  background-size: 1000px 1000px, 200% 200%;
+  background-repeat: no-repeat;
+  background-position: 100% 0, 0 0;
+  overflow: hidden;
+}
+
+//message
+.meg-message {
+  top: 60px !important;
+  &.custom-error-toast {
+    min-width: 280px !important;
+  }
+}
+.meg-export-button-dropdown.meg-popper[x-placement^=bottom] {
+  margin-top: 0px;
+}
+@mixin flex-vertical {
+  display: flex;
+  flex-direction: column;
+}

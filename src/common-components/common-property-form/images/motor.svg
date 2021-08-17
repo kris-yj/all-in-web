@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C7CED8;}
+	.st1{fill:#EBEFF2;}
+	.st2{fill:#F9FBFC;}
+	.st3{fill:url(#矩形备份-2_1_);}
+	.st4{fill:url(#矩形备份-3_1_);}
+</style>
+<g id="机动车3">
+	<path id="Fill-1" class="st0" d="M22.6,17.2L16,26.4l-0.6-2.3H10V28h4.8l-3.5,4.3v23.3h8.6v-3.6h32.3v3.6h8.6V32.2L57.2,28H62
+		l0-3.9h-5.3L56,26.4l-6.7-9.1H22.6z M24.4,20.2h23.1l6.8,10.3H17.4L24.4,20.2z M21.1,43.3h29.8l-0.9,4.6H22.1L21.1,43.3z"/>
+	<polygon id="路径" class="st1" points="15,34.4 26.8,38 27.2,40 16.1,40 	"/>
+	<polygon id="路径_1_" class="st1" points="45.2,38 57,34.4 55.9,40 44.8,40 	"/>
+	<polygon id="路径-4" class="st1" points="17.4,30.5 24.4,20.2 47.5,20.2 54.3,30.5 	"/>
+	<polygon id="矩形" class="st2" points="31.6,20.3 36,20.3 29.5,30.5 25,30.5 	"/>
+	<polygon id="矩形备份" class="st2" points="38.6,20.3 40.1,20.3 33.6,30.5 32,30.5 	"/>
+	
+		<linearGradient id="矩形备份-2_1_" gradientUnits="userSpaceOnUse" x1="1" y1="71.5" x2="9.094947e-13" y2="71.5" gradientTransform="matrix(25 0 0 -2 11.0578 199.5474)">
+		<stop  offset="0" style="stop-color:#C7CED8;stop-opacity:0.2987"/>
+		<stop  offset="1" style="stop-color:#B6C0D2"/>
+	</linearGradient>
+	<rect id="矩形备份-2" x="11.1" y="55.5" class="st3" width="25" height="2"/>
+	
+		<linearGradient id="矩形备份-3_1_" gradientUnits="userSpaceOnUse" x1="1" y1="71.5" x2="9.094947e-13" y2="71.5" gradientTransform="matrix(-25 0 0 -2 61 199.5474)">
+		<stop  offset="0" style="stop-color:#C7CED8;stop-opacity:0.2987"/>
+		<stop  offset="1" style="stop-color:#B6C0D2"/>
+	</linearGradient>
+	<rect id="矩形备份-3" x="36" y="55.5" class="st4" width="25" height="2"/>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="192px" viewBox="0 0 244 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>编组 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9957386%" y1="0.00142045455%" x2="49.9957386%" y2="99.3536932%" id="linearGradient-1">
+            <stop stop-color="#D1E4FF" offset="0%"></stop>
+            <stop stop-color="#ECF7FA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="click" transform="translate(-440.000000, -148.000000)">
+            <g id="编组-2" transform="translate(440.000000, 148.000000)">
+                <polygon id="Fill-1" fill="#FFFFFF" points="5.68434189e-14 192 244 192 244 0 5.68434189e-14 0"></polygon>
+                <path d="M91,164 C92.1045695,164 93,164.895431 93,166 L93,182 C93,183.104569 92.1045695,184 91,184 L12,184 C10.8954305,184 10,183.104569 10,182 L10,166 C10,164.895431 10.8954305,164 12,164 L91,164 Z M180,164 C181.104569,164 182,164.895431 182,166 L182,182 C182,183.104569 181.104569,184 180,184 L101,184 C99.8954305,184 99,183.104569 99,182 L99,166 C99,164.895431 99.8954305,164 101,164 L180,164 Z M206,164 C207.104569,164 208,164.895431 208,166 L208,182 C208,183.104569 207.104569,184 206,184 L190,184 C188.895431,184 188,183.104569 188,182 L188,166 C188,164.895431 188.895431,164 190,164 L206,164 Z M232,164 C233.104569,164 234,164.895431 234,166 L234,182 C234,183.104569 233.104569,184 232,184 L216,184 C214.895431,184 214,183.104569 214,182 L214,166 C214,164.895431 214.895431,164 216,164 L232,164 Z M136,144 L136,156 L10,156 L10,144 L136,144 Z M234,124 L234,136 L144,136 L144,124 L234,124 Z M234,104 L234,116 L144,116 L144,104 L234,104 Z M234,84 L234,96 L144,96 L144,84 L234,84 Z" id="形状结合" fill="#869ABB" opacity="0.197921323"></path>
+                <g id="编组" transform="translate(10.000000, 10.000000)">
+                    <rect id="矩形备份-10" fill="#EFEFEF" x="0" y="0" width="126" height="126"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" fill-rule="nonzero" x="1" y="1" width="124" height="124"></rect>
+                </g>
+                <g id="编组" transform="translate(144.000000, 10.000000)">
+                    <rect id="矩形备份-10" fill="#EFEFEF" x="0" y="0" width="52" height="52"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" fill-rule="nonzero" x="1" y="1" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
